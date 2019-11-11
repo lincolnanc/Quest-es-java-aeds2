@@ -1,2 +1,2 @@
 # Questoes-java-aeds2
-Questões feitas na displina de aeds2 em java
+Questões feitas na displina de aeds2 em java pela PUC Minas.
